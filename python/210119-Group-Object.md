@@ -36,7 +36,7 @@
 - `hash값 % 인덱스길이`를 통해 무작위로 정렬이 된다
 - `contacts = {'name':'Guido', 'country':'Netherland'}  "{name} is born in {country}".format(**contacts)`: format을 이용할수도 있다
 
-##Set
+## Set
 - 수학 집합 연산을 쉽게 하기위해 만든 자료형
 - 순서없음
 - 중복없음
