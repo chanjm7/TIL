@@ -1,6 +1,7 @@
 # Etiopian multiplication
 
-```first_num = int(input('첫번째 숫자를 입력하세요: '))
+```
+first_num = int(input('첫번째 숫자를 입력하세요: '))
 second_num = int(input('두번째 숫자를 입력하세요: '))
 nums = [first_num, second_num]
 nums_lists = [[nums[0],nums[1]]]
@@ -22,12 +23,14 @@ result = 0
 for i in nums_lists:
     result += i[1]
 
-print('{0} 와 {1} 곱하기는 {2} 입니다.'.format(first_num, second_num, result))```
+print('{0} 와 {1} 곱하기는 {2} 입니다.'.format(first_num, second_num, result))
+```
 
 
 # Monty Hall
 
-```import random
+```
+import random
 doors = [0, 0, 1]
 random.shuffle(doors)
 print('문 뒤:{}'.format(doors))
@@ -56,4 +59,5 @@ elif sec_q == 'no':
     else:
         print('음메~~~')
 else:
-    print('yes or no!')```
+    print('yes or no!')
+```
