@@ -1,47 +1,7 @@
 # TIL
-Today I Learned..
-
-<h1>title</h1>
-
-# Title
-
-##Installation
-
-you don`t need to install anything.
-just open and read..
-
-##sample code
-
-If you want to emphasize code, try `$ python server.py`
-
-
-or
-
-```
-import random
-
-answer = ramdom.ramdint(1,100)
-guess = int(input('Guess the hunder: '))
-
-if guess-answer == 0:
-	print("That is correct!")
-else:
-	print("Wrong! The answer was {}".format(answer))
-```
-
-## My favorates
-
--lol
--soccer
--mom
--dad
-
-## In order to contact me,
-
-1.Go to https://www.naver.com/
-2.Find user `chanjmw35`
-3.Find out my email and mail to there.
-
-[Go to naver](https:www.naver.com/)
-
-![](https://github.com/account)
+Today I Learned
+## 작성내용
+- 그날그날 새로 배운것들이나 만든것들을 작성한다
+- 너무 자세하게 적을필요는 없고 간략하게 쓴다
+- 마지막은 부족한점이나 느낀점을 간략하게 쓴다
+- 파일은 그날 작성한 날짜와 작성한 내용과 관련된 제목을 짓는다
